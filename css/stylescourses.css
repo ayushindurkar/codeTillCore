@@ -1,0 +1,87 @@
+h1{
+  color: #1CC7C4;
+  font-size: 32px;
+}
+.textbg{
+  background-color: black;
+}
+.coursebg{
+  background-image: url("coursesbg1.jpg");
+  background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+}
+.floatbox{
+  background-color: black;
+  opacity: 0.7;
+  width: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3%;
+  text-align: center;
+  border-radius: 80px;
+
+}
+
+.button {
+  background-color: #0000FF;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 22px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button:hover {opacity: 1}
+
+.inlinetext{
+  text-align: center;
+  width: 100%;
+  margin: 20px;
+
+}
+h3{
+  color: #ffffff;
+  font-size: 32px;
+}
+h2{
+  color: #F4D03F;
+  font-size: 32px;
+}
+h4{
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.background{
+  background-image: url("enrollmentbg.jpg");
+  background-repeat: no-repeat;
+  background-color: gray;
+  background-size: cover;
+  background-blend-mode: multiply;
+  padding-bottom: 20%;
+}
+.form-control{
+  font-size: 32px;
+  text-align: center;
+  margin-top: 10px;
+}
+.endbg{
+  background-image: url("endpagebg.jpg");
+  background-repeat: no-repeat;
+  background-color: gray;
+  background-size: cover;
+  background-blend-mode: darken;
+  padding-top: 325px;
+  padding-bottom: 325px;
+}

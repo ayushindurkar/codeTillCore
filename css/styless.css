@@ -1,0 +1,99 @@
+
+h2{
+  color : #0000FF;
+}
+.logintext{
+  border-style: solid;
+  border-radius: 50px;
+  border-width: 5px;
+}
+.signuptext{
+  border-style: solid;
+  border-radius: 50px;
+  align-items: center;
+  align-content: center;
+  margin: 10px;
+}
+
+
+.button {
+  background-color: #0000FF;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 22px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+
+#grad1 {
+  height: auto;
+  background-color: #E0FFFF; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#E0FFFF, #00FFFF);
+}
+.aboutus{
+  font-size: 64px;
+  padding: 5%;
+
+
+}
+.aboutupbg{
+    background-image: url(https://gsbl.in/wp-content/uploads/2022/06/event11.png);
+    background-repeat: no-repeat;
+     background-size: cover;
+    height: auto;
+    color: white;
+
+}
+
+.leftfloot{
+  background-color: black;
+  color: white;
+  padding: 5%;
+  margin-right: 35%;
+  margin-left: 2%;
+  margin-top: 5%;
+  border-radius: 100px;
+  text-align: center;
+  opacity: 80%;
+}
+
+.rightfloot{
+  background-color: black;
+  color: white;
+  padding: 5%;
+  margin-left: 35%;
+  margin-right: 2%;
+  margin-top: 5%;
+  border-radius: 100px;
+  text-align: center;
+  opacity: 80%;
+}
+.center{
+  text-align: center;
+  font-size: 60px;
+
+}
+.signuphead{
+  background-color: #FFFF8F;
+padding: 10px;
+}
+.textcen{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
